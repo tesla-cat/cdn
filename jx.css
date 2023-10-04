@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "jx";
+  src: local("jx"), local("jx"), url("jx.woff2") format("woff2"),
+    url("jx.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
